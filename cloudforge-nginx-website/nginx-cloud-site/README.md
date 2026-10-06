@@ -36,4 +36,4 @@ sudo systemctl status nginx
 sudo tail -f /var/log/nginx/cloudforge_error.log
 sudo tail -f /var/log/nginx/cloudforge_access.log
 sudo nginx -T
-END 
+END **
